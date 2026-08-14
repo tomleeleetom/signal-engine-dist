@@ -4,6 +4,6 @@
   "download_url": "https://github.com/tomleeleetom/signal-engine-dist/releases/latest",
   "max_popups": 5,
   "devices": {
-    "40B7-D806-2503": { "name": "Tom", "enabled": true }
+    "40B7-D806-2504": { "name": "Tom", "enabled": true }
   }
 }
