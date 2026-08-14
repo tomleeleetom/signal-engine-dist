@@ -1,6 +1,6 @@
 {
   "min_version": "2.50",
-  "latest_version": "2.56",
+  "latest_version": "2.55",
   "download_url": "https://github.com/tomleeleetom/signal-engine-dist/releases/latest",
   "max_popups": 5,
   "devices": {
