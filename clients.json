@@ -1,10 +1,5 @@
 {
   "min_version": "2.50",
-  "latest_version": "2.55",
-  "download_url": "https://github.com/tomleeleetom/signal-engine-dist/releases/latest",
-  "exe_url": "https://github.com/tomleeleetom/signal-engine-dist/releases/latest/download/GammaSignalEngine.exe",
-  "max_popups": 5,
-  "devices": {
-    "40B7-D806-2504": { "name": "Tom", "enabled": true }
-  }
+  "max_popups": 20,
+  "devices": { "40B7-D806-2504": { "name": "Tom", "enabled": true } }
 }
