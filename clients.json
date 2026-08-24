@@ -3,7 +3,7 @@
   "max_popups": 25,
   "devices": {
     "40B7-D806-2504": { "name": "Tom",  "enabled": true },
-    "91DE-988D-6BF1": { "name": "Tom2", "enabled": true, "max_popups": 3 },
+    "7B86-BC3B-8CE9": { "name": "Tom2", "enabled": true, "max_popups": 3 },
     "7B86-BC3B-8CE9": { "name": "Stanford", "enabled": true, "max_popups": 20 }
   }
 }
