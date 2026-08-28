@@ -1,6 +1,6 @@
 {
   "min_version": "2.50",
-  "max_popups": 25,
+  "max_popups": 30,
   "devices": {
     "40B7-D806-2504": { "name": "Tom",  "enabled": true },
     "91DE-988D-6BF1": { "name": "Tom2", "enabled": true, "max_popups": 3 },
