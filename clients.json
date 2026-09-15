@@ -7,6 +7,7 @@
     "7B86-BC3B-8CE9": { "name": "st", "enabled": true, "max_popups": 20 },
     "8861-85C4-455D": { "name": "api", "enabled": true, "max_popups": 20 },
     "E871-E3CC-9AF5": { "name": "Perry", "enabled": true },
+    "432D-FEEA-5060": { "name": "BigJ", "enabled": true },
     "1178-53E8-23E0": { "name": "d", "enabled": true, "max_popups": 20 }
   }
 }
