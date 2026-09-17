@@ -1,6 +1,6 @@
 {
   "min_version": "2.50",
-  "max_popups": 40,
+  "max_popups": 50,
   "devices": {
     "40B7-D806-2504": { "name": "Tom",  "enabled": true },    
     "7B86-BC3B-8CE9": { "name": "standford", "enabled": true },    
