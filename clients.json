@@ -2,10 +2,8 @@
   "min_version": "2.50",
   "max_popups": 40,
   "devices": {
-    "40B7-D806-2504": { "name": "Tom",  "enabled": true },
-    "91DE-988D-6BF1": { "name": "Tom2", "enabled": true, "max_popups": 3 },
-    "7B86-BC3B-8CE9": { "name": "standford", "enabled": true },
-    "8861-85C4-455D": { "name": "api", "enabled": true, "max_popups": 20 },
+    "40B7-D806-2504": { "name": "Tom",  "enabled": true },    
+    "7B86-BC3B-8CE9": { "name": "standford", "enabled": true },    
     "E871-E3CC-9AF5": { "name": "Perry", "enabled": true },
     "432D-FEEA-5060": { "name": "BigJ", "enabled": true },
     "A093-94F2-6C96": { "name": "Pong", "enabled": true },
