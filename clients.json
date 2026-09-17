@@ -7,6 +7,7 @@
     "E871-E3CC-9AF5": { "name": "Perry", "enabled": true, "max_popups": 40 },
     "432D-FEEA-5060": { "name": "BigJ", "enabled": true, "max_popups": 40 },
     "A093-94F2-6C96": { "name": "Pong", "enabled": true, "max_popups": 40 },
+    "DC6E-03D2-DE20": { "name": "Win", "enabled": true, "max_popups": 40 },
     "1178-53E8-23E0": { "name": "d", "enabled": true, "max_popups": 20 }
   }
 }
