@@ -3,7 +3,8 @@
   "max_popups": 50,
   "devices": {
     "40B7-D806-2504": { "name": "Tom",  "enabled": true },    
-    "7B86-BC3B-8CE9": { "name": "standford", "enabled": true },    
+    "7B86-BC3B-8CE9": { "name": "standford", "enabled": true },
+    "2E55-BC43-CC2C": { "name": "standford_home", "enabled": true },
     "E871-E3CC-9AF5": { "name": "Perry", "enabled": true, "max_popups": 40 },
     "432D-FEEA-5060": { "name": "BigJ", "enabled": true, "max_popups": 40 },
     "A093-94F2-6C96": { "name": "Pong", "enabled": true, "max_popups": 40 },
