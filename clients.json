@@ -2,7 +2,7 @@
   "min_version": "2.50",
   "max_popups": 50,
   "devices": {
-    "40B7-D806-2504": { "name": "Tom",  "enabled": true },    
+    "2C3A-1565-AA7B": { "name": "Tom",  "enabled": true },    
     "7B86-BC3B-8CE9": { "name": "standford", "enabled": true },
     "2E55-BC43-CC2C": { "name": "standford_home", "enabled": true },
     "E871-E3CC-9AF5": { "name": "Perry", "enabled": true, "max_popups": 40 },
