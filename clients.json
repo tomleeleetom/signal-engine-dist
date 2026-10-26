@@ -1,5 +1,5 @@
 {
-  "min_version": "3.42",
+  "min_version": "3.28",
   "max_popups": 50,
   "admin_addr": ["100.109.120.21:17799", "192.168.2.128:17799"],
   "devices": {
