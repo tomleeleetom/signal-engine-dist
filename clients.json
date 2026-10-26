@@ -1,7 +1,7 @@
 {
   "min_version": "2.50",
   "max_popups": 50,
-  "admin_addr": "100.x.y.z:17799", "192.168.2.128:17799",
+  "admin_addr": ["100.x.y.z:17799", "192.168.2.128:17799"],
   "devices": {
     "2C3A-1565-AA7B": { "name": "Tom",  "enabled": true },    
     "7B86-BC3B-8CE9": { "name": "standford", "enabled": true },
